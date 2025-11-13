@@ -1,0 +1,10 @@
+C:\Users\061230022\source\repos\BuscarFunc\bin\Debug\BuscarFunc.exe.config
+C:\Users\061230022\source\repos\BuscarFunc\bin\Debug\BuscarFunc.exe
+C:\Users\061230022\source\repos\BuscarFunc\bin\Debug\BuscarFunc.pdb
+C:\Users\061230022\source\repos\BuscarFunc\obj\Debug\BuscarFunc.csproj.AssemblyReference.cache
+C:\Users\061230022\source\repos\BuscarFunc\obj\Debug\BuscarFunc.Form1.resources
+C:\Users\061230022\source\repos\BuscarFunc\obj\Debug\BuscarFunc.Properties.Resources.resources
+C:\Users\061230022\source\repos\BuscarFunc\obj\Debug\BuscarFunc.csproj.GenerateResource.cache
+C:\Users\061230022\source\repos\BuscarFunc\obj\Debug\BuscarFunc.csproj.CoreCompileInputs.cache
+C:\Users\061230022\source\repos\BuscarFunc\obj\Debug\BuscarFunc.exe
+C:\Users\061230022\source\repos\BuscarFunc\obj\Debug\BuscarFunc.pdb

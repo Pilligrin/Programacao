@@ -1,0 +1,10 @@
+C:\Users\061230022\source\repos\PrimTesteSQL\bin\Debug\PrimTesteSQL.exe.config
+C:\Users\061230022\source\repos\PrimTesteSQL\bin\Debug\PrimTesteSQL.exe
+C:\Users\061230022\source\repos\PrimTesteSQL\bin\Debug\PrimTesteSQL.pdb
+C:\Users\061230022\source\repos\PrimTesteSQL\obj\Debug\PrimTesteSQL.csproj.AssemblyReference.cache
+C:\Users\061230022\source\repos\PrimTesteSQL\obj\Debug\PrimTesteSQL.Form1.resources
+C:\Users\061230022\source\repos\PrimTesteSQL\obj\Debug\PrimTesteSQL.Properties.Resources.resources
+C:\Users\061230022\source\repos\PrimTesteSQL\obj\Debug\PrimTesteSQL.csproj.GenerateResource.cache
+C:\Users\061230022\source\repos\PrimTesteSQL\obj\Debug\PrimTesteSQL.csproj.CoreCompileInputs.cache
+C:\Users\061230022\source\repos\PrimTesteSQL\obj\Debug\PrimTesteSQL.exe
+C:\Users\061230022\source\repos\PrimTesteSQL\obj\Debug\PrimTesteSQL.pdb
