@@ -1,0 +1,10 @@
+C:\Users\061230022\source\repos\CalculadoraPotencia\bin\Debug\CalculadoraPotencia.exe.config
+C:\Users\061230022\source\repos\CalculadoraPotencia\bin\Debug\CalculadoraPotencia.exe
+C:\Users\061230022\source\repos\CalculadoraPotencia\bin\Debug\CalculadoraPotencia.pdb
+C:\Users\061230022\source\repos\CalculadoraPotencia\obj\Debug\CalculadoraPotencia.csproj.AssemblyReference.cache
+C:\Users\061230022\source\repos\CalculadoraPotencia\obj\Debug\CalculadoraPotencia.Form1.resources
+C:\Users\061230022\source\repos\CalculadoraPotencia\obj\Debug\CalculadoraPotencia.Properties.Resources.resources
+C:\Users\061230022\source\repos\CalculadoraPotencia\obj\Debug\CalculadoraPotencia.csproj.GenerateResource.cache
+C:\Users\061230022\source\repos\CalculadoraPotencia\obj\Debug\CalculadoraPotencia.csproj.CoreCompileInputs.cache
+C:\Users\061230022\source\repos\CalculadoraPotencia\obj\Debug\CalculadoraPotencia.exe
+C:\Users\061230022\source\repos\CalculadoraPotencia\obj\Debug\CalculadoraPotencia.pdb

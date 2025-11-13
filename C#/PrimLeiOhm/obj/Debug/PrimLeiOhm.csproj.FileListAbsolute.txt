@@ -1,0 +1,10 @@
+C:\Users\061230022\source\repos\PrimLeiOhm\bin\Debug\PrimLeiOhm.exe.config
+C:\Users\061230022\source\repos\PrimLeiOhm\bin\Debug\PrimLeiOhm.exe
+C:\Users\061230022\source\repos\PrimLeiOhm\bin\Debug\PrimLeiOhm.pdb
+C:\Users\061230022\source\repos\PrimLeiOhm\obj\Debug\PrimLeiOhm.csproj.AssemblyReference.cache
+C:\Users\061230022\source\repos\PrimLeiOhm\obj\Debug\PrimLeiOhm.Form1.resources
+C:\Users\061230022\source\repos\PrimLeiOhm\obj\Debug\PrimLeiOhm.Properties.Resources.resources
+C:\Users\061230022\source\repos\PrimLeiOhm\obj\Debug\PrimLeiOhm.csproj.GenerateResource.cache
+C:\Users\061230022\source\repos\PrimLeiOhm\obj\Debug\PrimLeiOhm.csproj.CoreCompileInputs.cache
+C:\Users\061230022\source\repos\PrimLeiOhm\obj\Debug\PrimLeiOhm.exe
+C:\Users\061230022\source\repos\PrimLeiOhm\obj\Debug\PrimLeiOhm.pdb

@@ -1,0 +1,10 @@
+C:\Users\061230022\source\repos\PrimeiroTeste\bin\Debug\PrimeiroTeste.exe.config
+C:\Users\061230022\source\repos\PrimeiroTeste\bin\Debug\PrimeiroTeste.exe
+C:\Users\061230022\source\repos\PrimeiroTeste\bin\Debug\PrimeiroTeste.pdb
+C:\Users\061230022\source\repos\PrimeiroTeste\obj\Debug\PrimeiroTeste.csproj.AssemblyReference.cache
+C:\Users\061230022\source\repos\PrimeiroTeste\obj\Debug\PrimeiroTeste.Form1.resources
+C:\Users\061230022\source\repos\PrimeiroTeste\obj\Debug\PrimeiroTeste.Properties.Resources.resources
+C:\Users\061230022\source\repos\PrimeiroTeste\obj\Debug\PrimeiroTeste.csproj.GenerateResource.cache
+C:\Users\061230022\source\repos\PrimeiroTeste\obj\Debug\PrimeiroTeste.csproj.CoreCompileInputs.cache
+C:\Users\061230022\source\repos\PrimeiroTeste\obj\Debug\PrimeiroTeste.exe
+C:\Users\061230022\source\repos\PrimeiroTeste\obj\Debug\PrimeiroTeste.pdb
