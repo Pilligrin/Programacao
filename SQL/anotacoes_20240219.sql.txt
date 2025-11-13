@@ -1,0 +1,39 @@
+SELECT * FROM Person.Person;
+--Especifica todos os campos da tabela Person
+SELECT Person.* FROM Person.Person;
+--Renomeia localmente a tabela Person.Person como P
+SELECT P.* FROM Person.Person P;
+--Renomeia localmente o campo FirstName como PrimeiroNome
+SELECT p.FirstName AS 'PrimeiroNome',
+	   p.LastName 'ÚltimoNome'
+   FROM Person.Person p;
+--Seleciona apenas o último nome e o primeiro nome 
+--das pessoas que possuem o Emailpromotion como 0 ou 2
+SELECT LastName, FirstName 
+   FROM Person.Person WHERE EmailPromotion = 2 OR
+						    EmailPromotion = 0;
+--Seleciona apenas o último nome, o primeiro nome e o título
+--das pessoas que possuem o Emailpromotion como 0 e o título como Ms.
+SELECT LastName, FirstName, Title 
+    FROM Person.Person WHERE EmailPromotion = 0 AND
+							 Title = 'Ms.';
+
+--Seleciona as pessoas que possuem o nome do meio
+--como J. ou M. ou R. ou G. ou T. de forma alfabética inversa
+SELECT * FROM Person.Person
+   WHERE MiddleName IN ('J.', 'M.', 'R.', 'G.', 'T.')
+   ORDER BY FirstName DESC, LastName DESC;
+
+--Seleciona o primeiro nome das pessoas que tenham o nome
+--que iniciam com E
+SELECT FirstName FROM Person.Person
+   WHERE FirstName LIKE 'E%'; --Começa com
+
+SELECT FirstName FROM Person.Person
+   WHERE FirstName LIKE '%O';--Termina com
+
+SELECT FirstName FROM Person.Person
+   WHERE FirstName LIKE '%et%';--Possui
+
+SELECT FirstName FROM Person.Person
+   WHERE FirstName LIKE '_eth';--Nomes com quatro letras e que terminem com eth
