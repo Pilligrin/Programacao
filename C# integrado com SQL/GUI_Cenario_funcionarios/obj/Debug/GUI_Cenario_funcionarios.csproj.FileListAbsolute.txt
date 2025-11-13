@@ -1,0 +1,10 @@
+C:\Users\pro9111\source\repos\GUI_Cenario_funcionarios\bin\Debug\GUI_Cenario_funcionarios.exe.config
+C:\Users\pro9111\source\repos\GUI_Cenario_funcionarios\bin\Debug\GUI_Cenario_funcionarios.exe
+C:\Users\pro9111\source\repos\GUI_Cenario_funcionarios\bin\Debug\GUI_Cenario_funcionarios.pdb
+C:\Users\pro9111\source\repos\GUI_Cenario_funcionarios\obj\Debug\GUI_Cenario_funcionarios.csproj.AssemblyReference.cache
+C:\Users\pro9111\source\repos\GUI_Cenario_funcionarios\obj\Debug\GUI_Cenario_funcionarios.Form1.resources
+C:\Users\pro9111\source\repos\GUI_Cenario_funcionarios\obj\Debug\GUI_Cenario_funcionarios.Properties.Resources.resources
+C:\Users\pro9111\source\repos\GUI_Cenario_funcionarios\obj\Debug\GUI_Cenario_funcionarios.csproj.GenerateResource.cache
+C:\Users\pro9111\source\repos\GUI_Cenario_funcionarios\obj\Debug\GUI_Cenario_funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\pro9111\source\repos\GUI_Cenario_funcionarios\obj\Debug\GUI_Cenario_funcionarios.exe
+C:\Users\pro9111\source\repos\GUI_Cenario_funcionarios\obj\Debug\GUI_Cenario_funcionarios.pdb

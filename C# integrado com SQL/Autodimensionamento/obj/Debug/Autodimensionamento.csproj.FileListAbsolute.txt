@@ -1,0 +1,10 @@
+C:\Users\pro9111\source\repos\Autodimensionamento\bin\Debug\Autodimensionamento.exe.config
+C:\Users\pro9111\source\repos\Autodimensionamento\bin\Debug\Autodimensionamento.exe
+C:\Users\pro9111\source\repos\Autodimensionamento\bin\Debug\Autodimensionamento.pdb
+C:\Users\pro9111\source\repos\Autodimensionamento\obj\Debug\Autodimensionamento.csproj.AssemblyReference.cache
+C:\Users\pro9111\source\repos\Autodimensionamento\obj\Debug\Autodimensionamento.Form1.resources
+C:\Users\pro9111\source\repos\Autodimensionamento\obj\Debug\Autodimensionamento.Properties.Resources.resources
+C:\Users\pro9111\source\repos\Autodimensionamento\obj\Debug\Autodimensionamento.csproj.GenerateResource.cache
+C:\Users\pro9111\source\repos\Autodimensionamento\obj\Debug\Autodimensionamento.csproj.CoreCompileInputs.cache
+C:\Users\pro9111\source\repos\Autodimensionamento\obj\Debug\Autodimensionamento.exe
+C:\Users\pro9111\source\repos\Autodimensionamento\obj\Debug\Autodimensionamento.pdb

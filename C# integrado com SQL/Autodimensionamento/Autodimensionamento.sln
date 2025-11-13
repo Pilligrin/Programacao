@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autodimensionamento", "Autodimensionamento.csproj", "{45147441-BF31-45CE-BB3A-829DB4ED3D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45147441-BF31-45CE-BB3A-829DB4ED3D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45147441-BF31-45CE-BB3A-829DB4ED3D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45147441-BF31-45CE-BB3A-829DB4ED3D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45147441-BF31-45CE-BB3A-829DB4ED3D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2502C43A-FA07-460F-BD8D-C2E2C11ED97A}
+	EndGlobalSection
+EndGlobal
